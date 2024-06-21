@@ -1,26 +1,4 @@
-variable "redis_name" {
+variable "region" { 
 }
-variable "region" {
-  
-}
-variable "project" {
-  
-}
-variable "tier" {
-  
-}
-variable "vpc" {
-  
-}
-
-variable "bucket_name" {
-  
-}
-variable "vpc_name" {
-}
-variable "db_name" {
-  
-}
-variable "database_version" {
-  
+variable "bucket_name" {  
 }
